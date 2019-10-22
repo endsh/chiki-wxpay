@@ -42,7 +42,7 @@ setup(
     zip_safe=False,
     platforms='any',
     install_requires=[
-        'Flask==0.10.1',
+        'Flask==1.0',
         'dicttoxml==1.6.6',
         'WeRoBot==0.6.1',
         'chiki-base',
